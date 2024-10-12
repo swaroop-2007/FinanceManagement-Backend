@@ -10,12 +10,15 @@ app = FastAPI()
 
 # Our frontend will run on port 3000 and our CORS middleware will take care of it.
 origins = [
-    'http://localhost:3000'
+    'http://localhost:3000', 
 ]
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 class TransactionBase(BaseModel):

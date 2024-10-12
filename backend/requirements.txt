@@ -1,0 +1,46 @@
+annotated-types==0.7.0
+anyio @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/anyio_1699480386691/work/dist
+asttokens==2.4.1
+click==8.1.7
+colorama==0.4.6
+comm==0.2.2
+debugpy==1.8.1
+decorator==5.1.1
+executing==2.0.1
+fastapi==0.115.0
+greenlet==3.1.1
+h11==0.14.0
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+ipykernel==6.29.4
+ipython==8.23.0
+jedi==0.19.1
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+matplotlib-inline==0.1.7
+nest-asyncio==1.6.0
+orjson @ file:///C:/b/abs_55meqbxvgt/croot/orjson_1728487175612/work/target/wheels/orjson-3.10.7-cp312-none-win_amd64.whl#sha256=faecaeb34c6cc516db39024bfd54f97e37b5afbc52122ca5a00ab84265b475d8
+packaging==24.0
+parso==0.8.4
+platformdirs==4.2.0
+prompt-toolkit==3.0.43
+psutil==5.9.8
+pure-eval==0.2.2
+pydantic==2.9.2
+pydantic_core==2.23.4
+Pygments==2.17.2
+python-dateutil==2.9.0.post0
+pywin32==306
+pyzmq==26.0.0
+setuptools==75.1.0
+six==1.16.0
+sniffio @ file:///C:/b/abs_3akdewudo_/croot/sniffio_1705431337396/work
+SQLAlchemy==2.0.35
+stack-data==0.6.3
+starlette==0.38.6
+tornado==6.4
+traitlets==5.14.2
+typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
+uvicorn==0.31.1
+watchfiles @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/watchfiles_1701827586233/work
+wcwidth==0.2.13
+wheel==0.44.0
